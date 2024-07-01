@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Home.css'; // Assuming you have some CSS for styling
+import './Home.css';
 
 const Home = () => {
   const [selectedFile, setSelectedFile] = useState(null);
