@@ -1,0 +1,45 @@
+.home {
+    text-align: left;
+  }
+  
+  .home h2 {
+    font-size: 2em;
+  }
+  
+  .home h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .home form {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .home input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  .home button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .home button:hover {
+    background-color: #0056b3;
+  }
+  
+  .home p {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+  }
+  
